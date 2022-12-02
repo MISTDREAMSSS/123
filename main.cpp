@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "git test 123" << std::endl;
+    std::cout << "123456" << std::endl;
     return 0;
 }
